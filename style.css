@@ -9,7 +9,7 @@ body {
   background: white; /* Make it white if you need */
   color: #2824fc;
   padding: 0 24px;
-  margin: 0;
+  margin: 0;}
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -18,4 +18,7 @@ body {
 }
 #texte {
   color: red;
+}
+ul {
+  list-style-type: circle
 }
