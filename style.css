@@ -1,12 +1,12 @@
 head {
-  color: greenyellow;
+  color: rgb(111, 134, 165);
   font-size: medium;
 }
 title {
-  color: #2824fc;
+  color: #0b0b13;
 }
 body {
-  background: rgb(176, 196, 222);
+  background: rgb(111, 134, 165);
   color: #2824fc;
   padding: 0 24px;
   margin: 0;}
