@@ -22,10 +22,8 @@ body {
 #lien {
   list-style-type: circle
   color: #000000
+  background: #588d77
 }
 img {
   width:50%
-}
-a {
-  background: #6e28d9
 }
