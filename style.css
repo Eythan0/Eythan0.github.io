@@ -50,3 +50,6 @@ table {
     -webkit-transform: scaleX(1) scaleY(1) scaleZ(1);
     transform: scaleX(1) scaleY(1) scaleZ(1);
 }
+td {
+    border: 1px black solid; width 25%
+}
