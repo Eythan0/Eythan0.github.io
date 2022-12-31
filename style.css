@@ -51,5 +51,8 @@ table {
     transform: scaleX(1) scaleY(1) scaleZ(1);
 }
 td {
-    border: 1px black solid; width 25%
+    border: 1px black solid; width 25%;
+}
+h1 {
+    text-decoration: underligne;
 }
